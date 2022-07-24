@@ -1,0 +1,3 @@
+[submodule "next-photo"]
+	path = next-photo
+	url = https://github.com/Marienoir/next-photo
